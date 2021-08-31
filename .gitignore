@@ -1,0 +1,11 @@
+# packages
+*.vsix
+
+# vscode/
+.vscode/
+
+# node_modules
+node_modules/
+
+# output
+out/
