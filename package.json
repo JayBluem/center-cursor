@@ -13,6 +13,15 @@
 	"activationEvents": [
 		"onCommand:center-cursor.setCursor"
 	],
+	"keywords": [
+		"cursor",
+		"center",
+		"screen"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Jay-rO-o/center-cursor.git"
+	},
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
